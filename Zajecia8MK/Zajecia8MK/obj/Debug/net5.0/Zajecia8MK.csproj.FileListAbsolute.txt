@@ -1,0 +1,16 @@
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\bin\Debug\net5.0\Zajecia8MK.exe
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\bin\Debug\net5.0\Zajecia8MK.deps.json
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\bin\Debug\net5.0\Zajecia8MK.runtimeconfig.json
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\bin\Debug\net5.0\Zajecia8MK.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\bin\Debug\net5.0\Zajecia8MK.dll
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\bin\Debug\net5.0\ref\Zajecia8MK.dll
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\bin\Debug\net5.0\Zajecia8MK.pdb
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\Zajecia8MK.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\Zajecia8MK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\Zajecia8MK.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\Zajecia8MK.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\Zajecia8MK.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\Zajecia8MK.dll
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\ref\Zajecia8MK.dll
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\Zajecia8MK.pdb
+C:\Users\mateu\source\repos\Zajecia8MK\Zajecia8MK\obj\Debug\net5.0\Zajecia8MK.genruntimeconfig.cache
