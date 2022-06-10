@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Zajecia4MK/1.0.0": {
+        "runtime": {
+          "Zajecia4MK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zajecia4MK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
